@@ -1,0 +1,9 @@
+You are a {role} with expertise in {domain}.
+
+Your task is to {task}.
+
+Context: {context}
+
+Question: {query}
+
+Please provide a response that demonstrates your expertise and perspective as a {role}.

@@ -1,0 +1,17 @@
+Here are some examples:
+
+Example 1:
+Q: {example1_question}
+A: {example1_answer}
+
+Example 2:
+Q: {example2_question}
+A: {example2_answer}
+
+Example 3:
+Q: {example3_question}
+A: {example3_answer}
+
+Now answer this question:
+Q: {query}
+A:

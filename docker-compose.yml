@@ -1,0 +1,17 @@
+
+services:
+  prompt-experiments:
+    build: .
+    container_name: prompt-experiments
+    volumes:
+      # Mount local project directory to container
+      - ./:/app
+      # Persist database and results
+      - ./data:/app/data
+      - ./logs:/app/logs
+      - ./results:/app/results
+    env_file:
+      - .env
+    stdin_open: true
+    tty: true
+    command: /bin/bash

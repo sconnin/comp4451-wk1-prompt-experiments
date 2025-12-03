@@ -1,0 +1,11 @@
+Let's approach this step-by-step:
+
+Question: {query}
+
+Please break down your reasoning process:
+1. First, identify the key components of the question
+2. Then, analyze each component
+3. Consider relevant factors and relationships
+4. Finally, synthesize your conclusion
+
+Think through this carefully and show your reasoning.

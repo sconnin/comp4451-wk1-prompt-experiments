@@ -1,0 +1,16 @@
+
+# ROOT Directory
+
+# ignore environmental and virtual envs 
+
+*.env
+
+# Ignore selected subfolders
+
+/documentation
+/experiments
+/logs
+/results
+/data
+
+
