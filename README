@@ -1,0 +1,3 @@
+Docker Container for LLM prompt experiments. 
+
+Response metrics include: relevance score, accuracy score, completeness score, consistency score, efficency score, bias score.
