@@ -1,3 +1,5 @@
 Docker Container for LLM prompt experiments. 
 
 Response metrics include: relevance score, accuracy score, completeness score, consistency score, efficency score, bias score.
+
+This container is currently in development. Once complete it will be use for COMP4451 class demonstrations and labwork. 
